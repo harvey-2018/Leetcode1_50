@@ -5,3 +5,4 @@ hello
 harwey pull request
 local harwey push successful
 qwer
+https协议的，每次push都要输入账号密码，而ssh的不用
